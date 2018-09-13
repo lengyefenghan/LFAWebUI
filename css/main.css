@@ -20,15 +20,73 @@ h1 {
     border-style: solid;
     border-width: 1px;
     border-color: deepskyblue;
-    width:auto;
+    width:90%;
     height: 85%;
     padding: 0;
     margin:0 5% 0 5%;
 }
+#ulw {
+    width: 20%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+
+}
+#ulw li{
+    width: 100%;
+}
 
 #work button{
+    margin: 0;
+    width: 100%;
     color: white;
     background: black;
     border-width: 1px;
     border-color: deepskyblue;
+}
+
+#view {
+    width: 80%;
+    margin: 0 0 0 20%;
+    height:100%;
+    border-style: none none none solid;
+    border-color:deepskyblue;
+    border-width: 1px;
+}
+
+#ulx {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: white;
+}
+#ulxl{
+    width: 100%;
+    border-bottom: 1px;
+    border-style:none solid solid solid;
+    padding: 0;
+    float: left;
+    margin: 0;
+}
+
+.ulxl{
+    width: 100%;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    padding: 0;
+    float: left;
+    margin: 0;
+}
+.ulyl{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.ulyl li{
+    width: 20%;
+    list-style: none;
+    float: left;
 }
